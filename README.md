@@ -1,18 +1,34 @@
 # machine_reading_comprehension_kor
 klue data mrc
 
+##what is mrc?
+<br>
+  <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/mrc.png">
+<br>
+기계독해로 context가 주어졌을때 queston에 대한 answer문장을 예측하는 것입니다.
+
 <p align="center">
   <br>
-  <img src="https://github.com/leadawon/text_classification_yelp/blob/main/goorm_nlp_8th_group3/project1/img/process.png">
+  <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/project2_process.png">
   <br>
   
-  [pdf](https://github.com/leadawon/text_classification_yelp/blob/main/goorm_nlp_8th_group3/project1/leadawon/final/%5B2%E1%84%8C%E1%85%A9%5Dproj1_%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%E1%84%80%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%82%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
+  [pdf](https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/gnlp_2nd_pjt.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
   
 </p>
 
 
 ## 프로젝트 소개
-klue dataset에서 context를 읽고 question에 대한 answer를 출력합니다.
+
+###what is mrc?
+<br>
+  <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/mrc.png">
+<br>
+기계독해로 context가 주어졌을때 queston에 대한 answer문장을 예측하는 것입니다.
+
+
+[klue](https://github.com/KLUE-benchmark/KLUE/tree/main/klue_benchmark/klue-mrc-v1.1) dataset에서 train, test 용 데이터를 가져왔습니다.
+
+물론 test용 data는 정답을 알 수 없습니다.
 
 [kaggle](https://www.kaggle.com/competitions/6th-goorm-project-2-korean-mrc) 에서 [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)를 기준으로 competition을 진행합니다.
 
@@ -20,7 +36,7 @@ klue dataset에서 context를 읽고 question에 대한 answer를 출력합니�
 
 <p align="center">
 <br>
-<img src="https://github.com/leadawon/text_classification_yelp/blob/main/goorm_nlp_8th_group3/project1/img/kaggle.png">
+<img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/kaggle_result.png">
 <br>
 </p>
 
