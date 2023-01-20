@@ -1,12 +1,7 @@
 # machine_reading_comprehension_kor
 klue data mrc
 
-##what is mrc?
-<br>
-  <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/mrc.png">
-<br>
-기계독해로 context가 주어졌을때 queston에 대한 answer문장을 예측하는 것입니다.
-
+---
 <p align="center">
   <br>
   <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/project2_process.png">
@@ -15,7 +10,7 @@ klue data mrc
   [pdf](https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/gnlp_2nd_pjt.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
   
 </p>
-
+---
 
 ## 프로젝트 소개
 
@@ -24,29 +19,30 @@ klue data mrc
   <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/mrc.png">
 <br>
 기계독해로 context가 주어졌을때 queston에 대한 answer문장을 예측하는 것입니다.
-
+  
 
 [klue](https://github.com/KLUE-benchmark/KLUE/tree/main/klue_benchmark/klue-mrc-v1.1) dataset에서 train, test 용 데이터를 가져왔습니다.
 
 물론 test용 data는 정답을 알 수 없습니다.
-
+  
+---
+  
 [kaggle](https://www.kaggle.com/competitions/6th-goorm-project-2-korean-mrc) 에서 [Levenshtein Distance](https://en.wikipedia.org/wiki/Levenshtein_distance)를 기준으로 competition을 진행합니다.
 
 최종결과는 levenstrin distance 2.41247로 3등을 차지했습니다.
-
+  
+  
 <p align="center">
 <br>
 <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/kaggle_result.png">
 <br>
 </p>
 
-<p align="justify">
-
-</p>
+---
 
 <p align="center">
 
-</p>
+
 
 <br>
 
@@ -55,6 +51,8 @@ klue data mrc
 |   Python   |   Pytorch  |  Pandas  | Matplotlib | Wandb | Transformers |
 
 <br>
+  
+</p>
 
 ## 성능을 높이기 위한 방법
 
