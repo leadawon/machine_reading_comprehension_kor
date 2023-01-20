@@ -10,16 +10,18 @@ klue data mrc
   [pdf](https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/gnlp_2nd_pjt.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
   
 </p>
----
+
 
 ## 프로젝트 소개
 
-###what is mrc?
+### what is mrc?
+<p align="center"> 
 <br>
   <img src="https://github.com/leadawon/machine_reading_comprehension_kor/blob/main/project2/leadawon/images/mrc.png">
 <br>
+</p>
 기계독해로 context가 주어졌을때 queston에 대한 answer문장을 예측하는 것입니다.
-  
+
 
 [klue](https://github.com/KLUE-benchmark/KLUE/tree/main/klue_benchmark/klue-mrc-v1.1) dataset에서 train, test 용 데이터를 가져왔습니다.
 
