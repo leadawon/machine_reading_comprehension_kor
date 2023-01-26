@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#dawon
+project2/*.json
+project2/*.csv
