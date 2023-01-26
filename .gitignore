@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 #dawon
-project2/*.json
-project2/*.csv
+./project2/*.json
+./project2/*.csv
